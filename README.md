@@ -1,4 +1,6 @@
 # SAGV - Semi Autonomous Ground Vehicle
 
 
-This repository was uploaded 3 years after initial codingafter being found on an old laptop. I contains a few versions of the software used to control a Arduio and Raspberry Pi based vehicle. 
+This is a repository for a senior design project at UCF. The goal of the proejct was to develop a semi-autonomous ground vehicle that would find and recover golf balls.
+
+It includes various open source libraries and written code to control 4 diffferent PWM motors.
